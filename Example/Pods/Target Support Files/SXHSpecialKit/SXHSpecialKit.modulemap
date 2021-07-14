@@ -1,0 +1,6 @@
+framework module SXHSpecialKit {
+  umbrella header "SXHSpecialKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

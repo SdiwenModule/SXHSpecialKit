@@ -1,0 +1,16 @@
+PODS:
+  - SXHSpecialKit (1.0.0)
+
+DEPENDENCIES:
+  - SXHSpecialKit (from `../`)
+
+EXTERNAL SOURCES:
+  SXHSpecialKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SXHSpecialKit: 070db08f5845daf8d657fb9aaea993fbce11da09
+
+PODFILE CHECKSUM: 55b4876485356645dc47e9298168a44a856a79c2
+
+COCOAPODS: 1.10.1
